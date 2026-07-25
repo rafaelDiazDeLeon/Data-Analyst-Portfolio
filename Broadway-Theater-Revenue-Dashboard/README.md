@@ -6,7 +6,7 @@ An Excel dashboard analyzing the historical financial performance of Broadway sh
 
 ## 📌 Business question
 
-Which shows have actually generated the most value over time — and does the answer change once we compare dollars from different decades on equal footing?
+Which shows have actually generated the most value over time, and does the answer change once we compare dollars from different decades on equal footing?
 
 Once revenue is adjusted for inflation, classic long-runners like ***Cats*** and ***Les Misérables*** rank far above newer productions like ***Hamilton***, reversing the story told by nominal (unadjusted) revenue.
 
@@ -16,17 +16,17 @@ Once revenue is adjusted for inflation, classic long-runners like ***Cats*** and
 
 | Section | Content |
 |---|---|
-| **5 analysis pages** | Overall KPIs, revenue trends, nominal vs. inflation-adjusted comparison, per-show and per-season analysis |
-| **2 pivot table sheets** | Static pivot data (source for the scatter plot) using `GETPIVOTDATA` formulas with MDX syntax |
+| **Data Analysis - 5 pages** | Overall KPIs, revenue trends, nominal vs. inflation-adjusted comparison, per-show and per-season analysis |
+| **Pivot table sheets - 2 pages** | Static pivot data (source for the scatter plot) using `GETPIVOTDATA` formulas with MDX syntax |
 
 ---
 
 ## 🛠️ Tools & techniques
 
-- **Excel** — data model, pivot tables
-- **DAX** — calculated measures for KPIs
-- **GETPIVOTDATA (MDX)** — static data extraction for chart plotting
-- **Scatter plot** — visualizing the relationship between opening year and inflation-adjusted revenue
+- **EXCEL**:  data model, pivot tables
+- **DAX**:  calculated measures for KPIs
+- **GETPIVOTDATA (MDX)**:  static data extraction for chart plotting
+- **SCATTER PLOT**:  visualizing the relationship between opening year and inflation-adjusted revenue
 
 ---
 
@@ -49,11 +49,11 @@ Public dataset sourced from **Kaggle**, containing historical Broadway show reve
 
 ## 💡 Key insight
 
-> Without adjusting for inflation, Hamilton dominates the numbers. Once inflation is factored in, the picture shifts: shows with decades-long runs, like Cats and Les Misérables, have generated more real cumulative value — a reminder of how comparing nominal dollars across different eras can lead to misleading conclusions.
+> Without adjusting for inflation, Hamilton dominates the numbers. Once inflation is factored in, the picture shifts: shows with decades-long runs, like Cats and Les Misérables, have generated more real cumulative value, a reminder of how comparing nominal dollars across different eras can lead to misleading conclusions.
 
 ---
 
 ## 👤 Author
 
-**Rafa** — Jr. Data Analyst | Former Architectural Designer
+**Rafael Díaz de León Arriaga** — Jr. Data Analyst | Former Architectural Designer
 [GitHub](https://github.com/rafaelDiazDeLeon) · [LinkedIn](www.linkedin.com/in/rafael-díaz-de-león-arriaga-bb7948125)
