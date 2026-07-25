@@ -1,0 +1,58 @@
+# 🎭 Broadway Revenue Dashboard
+
+An Excel dashboard analyzing the historical financial performance of Broadway shows, with a particular focus on how **inflation-adjusting revenue completely changes the success ranking** across productions.
+
+---
+
+## 📌 Business question
+
+Which shows have actually generated the most value over time — and does the answer change once we compare dollars from different decades on equal footing?
+
+Once revenue is adjusted for inflation, classic long-runners like ***Cats*** and ***Les Misérables*** rank far above newer productions like ***Hamilton***, reversing the story told by nominal (unadjusted) revenue.
+
+---
+
+## 🗂️ Dashboard structure
+
+| Section | Content |
+|---|---|
+| **5 analysis pages** | Overall KPIs, revenue trends, nominal vs. inflation-adjusted comparison, per-show and per-season analysis |
+| **2 pivot table sheets** | Static pivot data (source for the scatter plot) using `GETPIVOTDATA` formulas with MDX syntax |
+
+---
+
+## 🛠️ Tools & techniques
+
+- **Excel** — data model, pivot tables
+- **DAX** — calculated measures for KPIs
+- **GETPIVOTDATA (MDX)** — static data extraction for chart plotting
+- **Scatter plot** — visualizing the relationship between opening year and inflation-adjusted revenue
+
+---
+
+## 📊 Data source
+
+Public dataset sourced from **Kaggle**, containing historical Broadway show revenue data.
+
+---
+
+## 🖼️ Screenshots
+
+
+<!--
+
+
+-->
+
+---
+
+## 💡 Key insight
+
+> Without adjusting for inflation, Hamilton dominates the numbers. Once inflation is factored in, the picture shifts: shows with decades-long runs, like Cats and Les Misérables, have generated more real cumulative value — a reminder of how comparing nominal dollars across different eras can lead to misleading conclusions.
+
+---
+
+## 👤 Author
+
+**Rafa** — Jr. Data Analyst | Former Architectural Designer
+[GitHub](https://github.com/rafaelDiazDeLeon) · [LinkedIn](https://www.linkedin.com/in/rafaelDiazDeLeon/)
