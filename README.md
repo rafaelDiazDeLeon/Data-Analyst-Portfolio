@@ -34,7 +34,13 @@ In this section I list my data analytics projects, briefly describing the goal, 
 
 **Technology:** Power BI, DAX, Power Query.
 
-**Results:** _[Añade aquí 1-2 resultados concretos, ej. "Identified that X% of engagement came from Y platform" o "Flagged top 3 underperforming campaign types"]_
+**Results:** There isn't a "winner" app, each one of them has its own strength: Tiktok delivers in terms of volume (1.177 billion video views, more than double that of Facebook and Instagram combined), yet Instagram generates the most efficient interaction (an 11.6% engagement rate, far surpassing the others). Facebook leads in total raw engagement (231M), though this is heavily driven by paid advertising. The recommendation is not to choose one platform, but to set specific strategies for each.
+
+**Screenshots:**
+
+![Cinepolis-Social-Media-Dashboard/screenshots/resumen-general.png](https://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/08101f22f9daaa2ee9caeaf29dd1c3fd366f6fb8/Cinepolis-Social-Media-Dashboard/screenshots/resumen-general.png)
+![Cinepolis-Social-Media-Dashboard/screenshots/conclusiones1.png](https://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/08101f22f9daaa2ee9caeaf29dd1c3fd366f6fb8/Cinepolis-Social-Media-Dashboard/screenshots/conclusiones1.png)
+![Cinepolis-Social-Media-Dashboard/screenshots/paloma-y-nacho.png](https://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/08101f22f9daaa2ee9caeaf29dd1c3fd366f6fb8/Cinepolis-Social-Media-Dashboard/screenshots/paloma-y-nacho.png)
 
 ---
 
