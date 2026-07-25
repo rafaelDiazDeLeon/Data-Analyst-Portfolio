@@ -22,11 +22,11 @@ Which platforms and content creators are actually driving engagement, and where 
 
 ## 🛠️ Tools & techniques
 
-- **Power BI**: data model and multi-page dashboard design
-- **DAX**: custom calculated measures
-- **Power Query**: data cleaning and transformation
-- **Gauge charts**: KPI target tracking
-- **Custom date sorting**: correcting default month-ordering for accurate time-based trends
+- **POWER BI**:  data model and multi-page dashboard design
+- **DAX**:  custom calculated measures
+- **POWER QUERY**:  data cleaning and transformation
+- **GAUGE CHARTS**:  KPI target tracking
+- **CUSTOM DATE SORTING**:  correcting default month-ordering for accurate time-based trends
 
 ---
 
