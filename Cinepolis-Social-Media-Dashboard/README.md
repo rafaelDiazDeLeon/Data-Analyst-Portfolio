@@ -14,9 +14,9 @@ Which platforms and content creators are actually driving engagement — and whe
 
 | Section | Content |
 |---|---|
-| **Platform KPIs** | Overall performance metrics across social media platforms (reach, engagement, growth) |
-| **Content Creator Contribution (P&N)** | Breakdown of performance by content creator, identifying top and underperforming contributors |
-| **Campaign Optimization** | Analysis of past campaigns to surface patterns and guide future content strategy |
+| **General Data Analysis - 5 pages** | Overall performance metrics across social media platforms (reach, engagement, growth) |
+| **"Paloma y Nacho" Campaign Data Analysis - 3 pages** | Breakdown of performance by marketing campaign "Paloma y Nacho" with content creators, identifying top and underperforming contributors |
+| **Campaign Optimization - 3 pages** | Analysis of past campaigns to surface patterns and guide future content strategy |
 
 ---
 
@@ -32,19 +32,17 @@ Which platforms and content creators are actually driving engagement — and whe
 
 ## 🖼️ Screenshots
 
-> _Coming soon — dashboard screenshots here._
+![Cinepolis-Social-Media-Dashboard/screenshots/resumen-general.png](https://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/08101f22f9daaa2ee9caeaf29dd1c3fd366f6fb8/Cinepolis-Social-Media-Dashboard/screenshots/resumen-general.png)
+![Cinepolis-Social-Media-Dashboard/screenshots/conclusiones1.png](https://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/08101f22f9daaa2ee9caeaf29dd1c3fd366f6fb8/Cinepolis-Social-Media-Dashboard/screenshots/conclusiones1.png)
+![Cinepolis-Social-Media-Dashboard/screenshots/paloma-y-nacho.png](https://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/08101f22f9daaa2ee9caeaf29dd1c3fd366f6fb8/Cinepolis-Social-Media-Dashboard/screenshots/paloma-y-nacho.png)
+![Cinepolis-Social-Media-Dashboard/screenshots/optimizacion.png](https://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/08101f22f9daaa2ee9caeaf29dd1c3fd366f6fb8/Cinepolis-Social-Media-Dashboard/screenshots/optimizacion.png)
 
-<!--
-![Platform KPIs](platform-kpis.png)
-![Content Creator Contribution](creator-contribution.png)
-![Campaign Optimization](campaign-optimization.png)
--->
 
 ---
 
 ## 💡 Key insight
 
-_[Añade aquí 1-2 hallazgos concretos, por ejemplo qué plataforma o creador tuvo mejor desempeño, o qué tipo de campaña rindió menos de lo esperado]_
+There isn't a "winner" app, each one of them has its own strength: Tiktok delivers in terms of volume (1.177 billion video views, more than double that of Facebook and Instagram combined), yet Instagram generates the most efficient interaction (an 11.6% engagement rate, far surpassing the others). Facebook leads in total raw engagement (231M), though this is heavily driven by paid advertising. The recommendation is not to choose one platform, but to set specific strategies for each.
 
 ---
 
