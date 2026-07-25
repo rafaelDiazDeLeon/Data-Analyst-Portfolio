@@ -39,10 +39,10 @@ Public dataset sourced from **Kaggle**, containing historical Broadway show reve
 ## 🖼️ Screenshots
 
 
-![Broadway-Theater-Revenue-Dashboard/overview.png](https://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/debfe7eb5192cdeecbba6ea54c8b1d43d54c853d/Broadway-Theater-Revenue-Dashboard/overview.png)
-![Broadway-Theater-Revenue-Dashboard/shows.png](https://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/f3265609449426aa74c080a71686b532c0eb4c29/Broadway-Theater-Revenue-Dashboard/shows.png)
-![Broadway-Theater-Revenue-Dashboard/ocupacion.png](https://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/7ca6195c2661ff343eda4e86d8b5911266c93c3a/Broadway-Theater-Revenue-Dashboard/ocupacion.png)
-![Broadway-Theater-Revenue-Dashboard/teatros.png](https://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/debfe7eb5192cdeecbba6ea54c8b1d43d54c853d/Broadway-Theater-Revenue-Dashboard/teatros.png)
+![Broadway-Theater-Revenue-Dashboard/overview.png](https://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/2cafe7406eb5a0cd59fed9297b7be04b437d650b/Broadway-Theater-Revenue-Dashboard/screenshots/overview.png)
+![Broadway-Theater-Revenue-Dashboard/shows.png](https://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/2cafe7406eb5a0cd59fed9297b7be04b437d650b/Broadway-Theater-Revenue-Dashboard/screenshots/shows.png)
+![Broadway-Theater-Revenue-Dashboard/ocupacion.png](https://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/2cafe7406eb5a0cd59fed9297b7be04b437d650b/Broadway-Theater-Revenue-Dashboard/screenshots/ocupacion.png)
+![Broadway-Theater-Revenue-Dashboard/teatros.png](https://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/2cafe7406eb5a0cd59fed9297b7be04b437d650b/Broadway-Theater-Revenue-Dashboard/screenshots/teatros.png)
 
 
 ---
