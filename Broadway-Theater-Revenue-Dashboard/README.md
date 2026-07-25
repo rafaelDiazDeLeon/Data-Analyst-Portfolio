@@ -40,7 +40,7 @@ Public dataset sourced from **Kaggle**, containing historical Broadway show reve
 
 
 ![Broadway-Theater-Revenue-Dashboard/overview.png](https://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/debfe7eb5192cdeecbba6ea54c8b1d43d54c853d/Broadway-Theater-Revenue-Dashboard/overview.png)
-![Broadway-Theater-Revenue-Dashboard/shows.png](https://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/7ca6195c2661ff343eda4e86d8b5911266c93c3a/Broadway-Theater-Revenue-Dashboard/shows.pnghttps://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/7ca6195c2661ff343eda4e86d8b5911266c93c3a/Broadway-Theater-Revenue-Dashboard/shows.png)
+![Broadway-Theater-Revenue-Dashboard/shows.png](https://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/f3265609449426aa74c080a71686b532c0eb4c29/Broadway-Theater-Revenue-Dashboard/shows.png)
 ![Broadway-Theater-Revenue-Dashboard/ocupacion.png](https://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/7ca6195c2661ff343eda4e86d8b5911266c93c3a/Broadway-Theater-Revenue-Dashboard/ocupacion.png)
 ![Broadway-Theater-Revenue-Dashboard/teatros.png](https://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/debfe7eb5192cdeecbba6ea54c8b1d43d54c853d/Broadway-Theater-Revenue-Dashboard/teatros.png)
 
@@ -56,4 +56,4 @@ Public dataset sourced from **Kaggle**, containing historical Broadway show reve
 ## 👤 Author
 
 **Rafa** — Jr. Data Analyst | Former Architectural Designer
-[GitHub](https://github.com/rafaelDiazDeLeon) · [LinkedIn](https://www.linkedin.com/in/rafaelDiazDeLeon/)
+[GitHub](https://github.com/rafaelDiazDeLeon) · [LinkedIn](www.linkedin.com/in/rafael-díaz-de-león-arriaga-bb7948125)
