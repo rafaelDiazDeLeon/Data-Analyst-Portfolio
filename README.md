@@ -15,7 +15,7 @@ This repository showcases the data projects I've built while transitioning into 
   * Power BI
     + [Cinépolis Social Media Performance Dashboard](#cinépolis-social-media-performance-dashboard)
   * Excel
-    + [Broadway Revenue Dashboard](#broadway-revenue-dashboard)
+    + [Broadway Theater Revenue Dashboard](#broadway-revenue-dashboard)
 - [Contact](#contact)
 
 ## Portfolio Projects
@@ -42,7 +42,7 @@ In this section I list my data analytics projects, briefly describing the goal, 
 
 **Goal:** To determine which Broadway shows have generated the most value over time — and whether that ranking changes once revenue is compared on equal footing across decades.
 
-**Code:** [`Broadway-Revenue-Dashboard`](./Broadway-Revenue-Dashboard)
+**Code:** [`Broadway Theater Revenue Dashboard`](./Broadway-Theater-Revenue-Dashboard)
 
 **Description:** An Excel dashboard analyzing the historical financial performance of Broadway shows, built on a public Kaggle dataset. The dashboard spans 5 analysis pages plus 2 pivot table sheets used as the source for a scatter plot, built using `GETPIVOTDATA` formulas with MDX syntax.
 
@@ -54,5 +54,5 @@ In this section I list my data analytics projects, briefly describing the goal, 
 
 ## Contact
 
-- LinkedIn: [rafaelDiazDeLeon](https://www.linkedin.com/in/rafaelDiazDeLeon/)
+- LinkedIn: [rafaelDiazDeLeon](www.linkedin.com/in/rafael-díaz-de-león-arriaga-bb7948125)
 - Email: rafa3diazdeleon@gmail.com
