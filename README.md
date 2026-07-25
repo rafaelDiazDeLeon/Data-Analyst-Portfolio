@@ -52,6 +52,11 @@ In this section I list my data analytics projects, briefly describing the goal, 
 
 **Results:** Once revenue is adjusted for inflation, long-running classics like *Cats* and *Les Misérables* outrank newer productions like *Hamilton* — reversing the story told by nominal (unadjusted) revenue and showing how comparing dollars across different eras can be misleading.
 
+**Screenshots:**
+![Broadway-Theater-Revenue-Dashboard/overview.png
+](https://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/debfe7eb5192cdeecbba6ea54c8b1d43d54c853d/Broadway-Theater-Revenue-Dashboard/overview.png)
+![Broadway-Theater-Revenue-Dashboard/teatros.png](https://github.com/rafaelDiazDeLeon/Data-Analyst-Portfolio/blob/debfe7eb5192cdeecbba6ea54c8b1d43d54c853d/Broadway-Theater-Revenue-Dashboard/teatros.png)
+
 ## Contact
 
 - LinkedIn: [rafaelDiazDeLeon](www.linkedin.com/in/rafael-díaz-de-león-arriaga-bb7948125)
