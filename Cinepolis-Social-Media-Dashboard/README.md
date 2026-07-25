@@ -6,7 +6,7 @@ A multi-page Power BI dashboard analyzing Cinépolis' social media performance a
 
 ## 📌 Business question
 
-Which platforms and content creators are actually driving engagement — and where should future campaign investment go to get the best return?
+Which platforms and content creators are actually driving engagement, and where should future campaign investment go to get the best return?
 
 ---
 
@@ -22,11 +22,11 @@ Which platforms and content creators are actually driving engagement — and whe
 
 ## 🛠️ Tools & techniques
 
-- **Power BI** — data model and multi-page dashboard design
-- **DAX** — custom calculated measures
-- **Power Query** — data cleaning and transformation
-- **Gauge charts** — KPI target tracking
-- **Custom date sorting** — correcting default month-ordering for accurate time-based trends
+- **Power BI**: data model and multi-page dashboard design
+- **DAX**: custom calculated measures
+- **Power Query**: data cleaning and transformation
+- **Gauge charts**: KPI target tracking
+- **Custom date sorting**: correcting default month-ordering for accurate time-based trends
 
 ---
 
@@ -48,5 +48,5 @@ There isn't a "winner" app, each one of them has its own strength: Tiktok delive
 
 ## 👤 Author
 
-**Rafa** — Jr. Data Analyst | Former Architect
+**Rafael Díaz de León Arriaga** — Jr. Data Analyst | Former Architectural Designer
 [GitHub](https://github.com/rafaelDiazDeLeon) · [LinkedIn](https://www.linkedin.com/in/rafaelDiazDeLeon/)
