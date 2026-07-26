@@ -56,4 +56,4 @@ Public dataset sourced from **Kaggle**, containing historical Broadway show reve
 ## 👤 Author
 
 **Rafael Díaz de León Arriaga** — Jr. Data Analyst | Former Architectural Designer
-[GitHub](https://github.com/rafaelDiazDeLeon) · [LinkedIn](www.linkedin.com/in/rafael-díaz-de-león-arriaga-bb7948125)
+[GitHub](https://github.com/rafaelDiazDeLeon) ·  LinkedIn: [rafaelDiazDeLeon](https://www.linkedin.com/in/rafael-díaz-de-león-arriaga-bb7948125/)
