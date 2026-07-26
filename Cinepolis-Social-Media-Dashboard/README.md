@@ -49,4 +49,4 @@ There isn't a "winner" app, each one of them has its own strength: Tiktok delive
 ## 👤 Author
 
 **Rafael Díaz de León Arriaga** — Jr. Data Analyst | Former Architectural Designer
-[GitHub](https://github.com/rafaelDiazDeLeon) · [LinkedIn](https://www.linkedin.com/in/rafaelDiazDeLeon/)
+[GitHub](https://github.com/rafaelDiazDeLeon) ·  LinkedIn: [rafaelDiazDeLeon](https://www.linkedin.com/in/rafael-díaz-de-león-arriaga-bb7948125/)
