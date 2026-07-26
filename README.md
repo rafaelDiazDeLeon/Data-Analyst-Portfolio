@@ -65,5 +65,5 @@ In this section I list my data analytics projects, briefly describing the goal, 
 
 ## Contact
 
-- LinkedIn: [rafaelDiazDeLeon](www.linkedin.com/in/rafael-díaz-de-león-arriaga-bb7948125)
+- LinkedIn: [rafaelDiazDeLeon](https://www.linkedin.com/in/rafael-díaz-de-león-arriaga-bb7948125/)
 - Email: rafa3diazdeleon@gmail.com
