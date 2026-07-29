@@ -12,6 +12,8 @@ This repository showcases the data projects I've built while transitioning into 
 
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
+  * SQL / Python
+    + [Blinkit Groceries App Sales Analysis](#blinkit-groceries-app-sales-analysis)
   * Power BI
     + [Cinépolis Social Media Performance Dashboard](#cinépolis-social-media-performance-dashboard)
   * Excel
@@ -21,6 +23,29 @@ This repository showcases the data projects I've built while transitioning into 
 ## Portfolio Projects
 
 In this section I list my data analytics projects, briefly describing the goal, approach, and tools used for each.
+
+### Blinkit Groceries App Sales Analysis
+
+**Goal:** To evaluate which products and customers drive the business, assess delivery reliability, and surface actionable insights from a 5-table relational database built from a real-world grocery delivery dataset.
+
+**Code:** [`Blinkit-Groceries-App-Sales-Analysis`](./Blinkit-Groceries-App-Sales-Analysis)
+
+**Description:** A combined SQL + Python project. Designed and built a 5-table relational schema in MySQL/MariaDB (`customers`, `products`, `orders`, `order_items`, `delivery_performance`), wrote analysis queries using CTEs, `CASE` classification, subqueries, and `JOIN`s, then connected to the database from Python (SQLAlchemy + Pandas) to visualize the results in a Jupyter Notebook.
+
+**Skills:** relational database design, SQL querying (CTEs, subqueries, JOINs, CASE), data visualization, Python-SQL integration.
+
+**Technology:** MySQL/MariaDB, SQL, Python, SQLAlchemy, Pandas, Matplotlib, Jupyter Notebook.
+
+**Results:** Every product in the 268-item catalog sold at least once — no dead stock. Delivery reliability has room to improve: 69.4% of orders arrive on time, while 9.9% are significantly delayed. The customer base skews "Frequent" (1,371 of 2,500 customers), with a smaller loyal Premium segment (121) and a larger Occasional group (680) that represents a re-engagement opportunity.
+
+**Screenshots:**
+
+![Blinkit-Groceries-App-Sales-Analysis/charts/top_products.png](Blinkit-Groceries-App-Sales-Analysis/charts/top_products.png)
+![Blinkit-Groceries-App-Sales-Analysis/charts/monthly_revenue.png](Blinkit-Groceries-App-Sales-Analysis/charts/monthly_revenue.png)
+![Blinkit-Groceries-App-Sales-Analysis/charts/customer_tiers.png](Blinkit-Groceries-App-Sales-Analysis/charts/customer_tiers.png)
+![Blinkit-Groceries-App-Sales-Analysis/charts/delivery_performance.png](Blinkit-Groceries-App-Sales-Analysis/charts/delivery_performance.png)
+
+---
 
 ### Cinépolis Social Media Performance Dashboard
 
